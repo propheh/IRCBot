@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <files>
+        <users>users.xml</users>
+        <connections>connections.xml</connections>
+    </files>
+</settings>

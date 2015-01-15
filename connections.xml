@@ -1,0 +1,12 @@
+<connections>
+    <connection name="Home1" host="localhost" port="6667" nick="IRCBot" reconnectdelay="10">
+        <channels>
+            <entry name="#opers" />
+        </channels>
+    </connection>
+    <connection name="Home2" host="localhost" port="6667" nick="TDEBot" reconnectdelay="10">
+        <channels>
+            <entry name="#opers" />
+        </channels>
+    </connection>
+</connections>

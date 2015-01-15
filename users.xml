@@ -1,0 +1,16 @@
+<access>
+    <groups>
+        <group name="admin" defaultlvl="100">
+            <entry name="usercommands" lvl="100" />
+        </group>
+    </groups>
+    <users>
+        <user name="Proph" defaultlvl="100">
+            <password>xxx</password> <!-- abcd -->
+            <msn>xxx</msn>
+            <qnick>xxx</qnick>
+            <entry name="usercommands" lvl="100" />
+            <group name="admin" />
+        </user>
+    </users>
+</access>
